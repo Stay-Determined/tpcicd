@@ -1,5 +1,5 @@
 pipeline{
-environment {
+environment{
 registry = "arxxinsanexx/helloworld"
 registryCredential = 'dckr_pat_fY519zftJcTk1Q615p0LflhfIsQ'
 dockerImage = ''
